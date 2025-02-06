@@ -59,3 +59,7 @@ module load python3/3.12.1
 python3 ~/projects/filesender/filesender.py -v -u daniel.thomson@adelaide.edu.au -a 4650aa35a43426f653429cf20e32d836ccf727375e89a843da97ad2c7835f456 -r daniel.thomson@adelaide.edu.au [files]
 ```
 - I tried doing this on a 'screen' session but there was an error
+
+# to generate wget command to download filesender link
+https://filesender-download.streamlit.app/
+
